@@ -1,2 +1,2 @@
-# PrankVirus
-This is a prank virus made for you. Try it on real computer and be sure to email this to your friends and prank them! 
+# falsevbs (f.k.s. PrankVIrus)
+an old 'virus' (just a text box thing, don't worry) i made when I was a kid. super basic, non-destructive, and I even cringe when I look at the file. i apologise if you find this awful. i am not responsible for any damage. enjoy!
