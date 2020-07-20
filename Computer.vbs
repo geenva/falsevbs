@@ -7,4 +7,4 @@ X=MsgBox("Deleting System Files...",2+16,"File Deletion")
 X=MsgBox("Uploading data. Do you want to terminate the process?",4+16,"File Transfer")
 X=MsgBox("Could not stop. File transfer completed",1+64,"Completed")
 set objShell = wscript.CreateObject("wscript.shell")
-objShell.Run "shutdown.exe /R /T 5 /C ""Rebooting your computer now!"" "
+objShell.Run "shutdown.exe /R /T 5 /C ""dude you just got pranked."" "
