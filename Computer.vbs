@@ -1,6 +1,6 @@
 X=MsgBox("Error while opening Computer. Do you want to fix this error?",4+64,"Computer")
 X=MsgBox("Unable to fix this error. Do you want to scan this computer?",3+48,"Computer")
-X=MsgBox("Alert! Harmfull software detected. Attempt to resolve the problem?",3+16,"Alert !") 
+X=MsgBox("Alert! Harmfull software detected. Attempt to resolve the problem?",3+16,"Alert!") 
 X=MsgBox("Unable to delete the harmful software.",1+64,"Critical Error")
 X=MsgBox("Malware triggered, and compromised the security of WIndows and other software. Attempting to fully remove...",2+16,"Alert") 
 X=MsgBox("Deleting System Files...",2+16,"File Deletion") 
